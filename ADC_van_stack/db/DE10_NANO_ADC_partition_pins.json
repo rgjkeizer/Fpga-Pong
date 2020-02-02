@@ -1,0 +1,181 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ADC_CONVST",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SDI",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[23]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[22]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[21]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[20]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[19]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[18]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[17]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[16]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[6]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[2]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_D[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO13",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO12",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO11",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO10",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO2",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO3",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO4",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO5",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO6",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO7",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO8",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_DE",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_HS",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_VS",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_I2C_SCL",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_I2C_SDA",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_I2S",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_LRCLK",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CLK1_50",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CLK2_50",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				},
+				{
+					"name" : "HDMI_TX_INT",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SDO",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
